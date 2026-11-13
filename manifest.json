@@ -1,0 +1,19 @@
+{
+  "name": "GEN Z PRO - DJ",
+  "short_name": "GEN Z PRO",
+  "description": "GEN Z PRO DJ Mixer - Music, Videos and Entertainment for Gen Z",
+  "start_url": "/GEN-Z-PRO/",
+  "scope": "/GEN-Z-PRO/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#00e676",
+  "icons": [
+    {
+      "src": "gen-z-pro-icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
