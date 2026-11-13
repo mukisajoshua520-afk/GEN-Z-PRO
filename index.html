@@ -874,4 +874,4 @@ async function restoreLib(){try{await DB.open()}catch(e){return}
   if(fl.length){await addFiles(fl,{db:true,meta:mm,folders:fo});toast(fl.length+' saved file'+(fl.length>1?'s':'')+' ready')}}catch(e){}}
 if(!permGet())showPerm();restoreLib();
 view();tick();
-</script></body></html>
+</script><script>if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js');}</script></body></html>
