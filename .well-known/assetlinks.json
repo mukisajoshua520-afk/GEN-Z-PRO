@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mukisajoshua520_afk.twa",
+    "sha256_cert_fingerprints": ["CF:BB:4F:08:B0:B4:4D:6F:CB:BB:55:AE:C0:E3:B5:20:BE:4B:64:47:9F:AA:12:D9:91:01:F0:D0:6B:3B:B7:25"]
+  }
+}]
